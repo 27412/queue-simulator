@@ -67,4 +67,4 @@ else:
     st.caption("📌 Semakin besar ρ, sistem makin padat dan distribusi makin berat ke kanan.")
 
 # 👣 Footer
-st.markdown('<div class="footer">Dibuat dengan ❤️ oleh As Septian | Model M/M/1 | Streamlit App</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer"> TUGAS ASWA SEPTIAN</div>', unsafe_allow_html=True)
